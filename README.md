@@ -17,7 +17,7 @@
 
 ## 👋 About me
 
-I’m **Amir Ali**, a **Senior Frontend Engineer** based in **Karachi, Pakistan** and open to relocation. I have **5+ years of experience** building production-grade **React**, **Next.js** and **TypeScript** applications across AI-powered search, personalization, e-commerce, trading, SaaS dashboards and workflow products.
+I’m **Amir Ali**, a **Senior Frontend Engineer**. I have **5+ years of experience** building production-grade **React**, **Next.js** and **TypeScript** applications across AI-powered search, personalization, e-commerce, trading, SaaS dashboards and workflow products.
 
 I care deeply about clean frontend architecture, fast interfaces, privacy-first product thinking, user trust and turning complex product requirements into responsive, reliable experiences.
 
